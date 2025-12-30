@@ -1,0 +1,9 @@
+## This is an x86-64 bomb for self-study students. 
+
+### This lab was very educational — I loved it!
+### Tools that were used to solve it:
+#### 1. objdump – basic and powerful. I dumped all the disassembly into an ASM file, cut pieces of it, and wrote notes.
+#### 2. pwndbg – an amazing Python extension for GDB. This was very helpful because the colors made everything very clear to the eyes, and there is a stack overview that opens while you debug, which is very helpful to connect the dots throughout the debugging process.
+### I left all the notes and the pieces of the code in the solution folder.
+### res.txt contains the keys to solve the challenge.
+### You can download the original source from this link, click on the Self-Study Handout option: [Original source](https://github.com/user/repo)
